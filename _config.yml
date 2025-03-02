@@ -35,6 +35,13 @@ collections:
     output: true
     permalink: /:collection/:name
 
+# Navigation
+header_pages:
+  - learning-tracks/index.md
+  - research-methods/index.md
+  - cogsci-projects/index.md
+  - tools/index.md
+
 # Defaults for collections
 defaults:
   - scope:
