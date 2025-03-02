@@ -47,6 +47,28 @@ For the next two weeks, I'm focusing on:
 - Setting up the basic structure for a working memory model project
 - Documenting connections between program design and cognitive frameworks
 
+
 ## GitHub Repository
 
 [View on GitHub](https://github.com/SamBitSync/paradigms-to-practice)
+
+<style>
+.progress-container {
+  margin: 20px 0;
+}
+.progress-item {
+  margin-bottom: 15px;
+}
+.progress-bar {
+  background-color: #eee;
+  border-radius: 4px;
+  height: 20px;
+  width: 100%;
+}
+.progress {
+  background-color: #4caf50;
+  height: 20px;
+  border-radius: 4px;
+}
+</style>
+
