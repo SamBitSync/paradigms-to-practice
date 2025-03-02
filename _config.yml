@@ -1,0 +1,39 @@
+title: Paradigms to Practice
+description: A digital garden tracking the journey from theory to implementation
+theme: minima
+baseurl: "/paradigms-to-practice"
+url: "https://SamBitSync.github.io"
+
+# Digital garden settings
+markdown: kramdown
+highlighter: rouge
+
+# Collections for different areas of learning
+collections:
+  htdp:
+    output: true
+    permalink: /:collection/:name
+  python:
+    output: true
+    permalink: /:collection/:name
+  downey-books:
+    output: true
+    permalink: /:collection/:name
+  cogsci:
+    output: true
+    permalink: /:collection/:name
+  reflections:
+    output: true
+    permalink: /:collection/:name
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
