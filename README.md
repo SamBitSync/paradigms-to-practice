@@ -47,13 +47,13 @@ working through HtDP, pybites, and allen downey's books
    - [ ] MRI data
    - [ ] Machine Learning
 
-
-
-
 - carpentry
   - [ ] Introducing Computational Thinking
   - [ ] R for Reproducible Scientific Analysis
   - [ ] Programming with MATLAB
+ 
+  ---
+  - [ ] fMRI-Based Cognitive Neuroscience for Beginners
 
 # pybites
 
