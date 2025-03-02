@@ -3,7 +3,7 @@ layout: page
 title: "Development Tools"
 ---
 
-# Development Tools
+
 
 This section focuses on the programming tools, environments, and practices that support my cognitive science programming journey.
 

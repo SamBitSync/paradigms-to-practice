@@ -1,0 +1,67 @@
+---
+---
+
+@import "minima";
+
+// Fix navigation indentation
+.site-nav {
+  margin-right: 0;
+  float: right;
+  text-align: right;
+}
+
+// Make navigation links evenly spaced
+.page-link {
+  margin-left: 20px;
+  &:first-child {
+    margin-left: 0;
+  }
+}
+
+// Center align the navigation on medium to large screens
+@media screen and (min-width: 600px) {
+  .site-nav {
+    display: flex;
+    justify-content: center;
+    float: none;
+    text-align: center;
+    margin-top: 10px;
+  }
+}
+
+// Responsive adjustment for mobile
+@media screen and (max-width: 600px) {
+  .site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    text-align: right;
+  }
+}
+
+// Improve spacing around headings
+h1, h2, h3 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+// Add subtle section dividers
+.section {
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+// Enhance links in main content
+.post-content a {
+  color: #2a7ae2;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+  
+  &:hover {
+    border-bottom-color: #2a7ae2;
+  }
+}

@@ -3,7 +3,6 @@ layout: page
 title: "Cognitive Science Projects"
 ---
 
-# Cognitive Science Projects
 
 This section documents my practical implementations of cognitive science concepts, creating a bridge between theoretical understanding and programming application.
 

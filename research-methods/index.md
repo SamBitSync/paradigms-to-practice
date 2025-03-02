@@ -3,7 +3,7 @@ layout: page
 title: "Research Methods"
 ---
 
-# Research Methods
+
 
 This section focuses on programming techniques specifically applied to cognitive science research methods and experimental paradigms.
 

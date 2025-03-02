@@ -3,7 +3,6 @@ layout: page
 title: "Learning Tracks"
 ---
 
-# Learning Tracks
 
 These tracks document my progression through foundational programming and cognitive science concepts, focusing on structured learning resources.
 
