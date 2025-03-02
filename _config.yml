@@ -19,10 +19,10 @@ collections:
   htdp:
     output: true
     permalink: /:collection/:name
-  pybites:  # Changed from python
+  pybites:
     output: true
     permalink: /:collection/:name
-  downey-books:  # Changed from downey
+  downey-books:
     output: true
     permalink: /:collection/:name
   testing:
@@ -31,7 +31,7 @@ collections:
   datascience:
     output: true
     permalink: /:collection/:name
-  cogsci-projects:  # Changed from cogsci
+  cogsci-projects:
     output: true
     permalink: /:collection/:name
 
@@ -57,12 +57,12 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "python"
+      type: "pybites"
     values:
       layout: "page"
   - scope:
       path: ""
-      type: "downey"
+      type: "downey-books"
     values:
       layout: "page"
   - scope:
@@ -77,6 +77,6 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "cogsci"
+      type: "cogsci-projects"
     values:
       layout: "page"
