@@ -3,7 +3,7 @@ layout: home
 title: Paradigms to Practice
 ---
 
-# A Cognitive Scientist's Digital Garden
+# An Aspiring Cognitive Scientist's Digital Garden
 
 Welcome to my learning journey, where I'm bridging the gap between paradigmic cognition and practical programming skills. This digital garden documents my progress, challenges, and insights along the way.
 
