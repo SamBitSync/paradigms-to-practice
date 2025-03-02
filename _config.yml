@@ -1,39 +1,75 @@
 title: Paradigms to Practice
-description: A digital garden tracking the journey from theory to implementation
-theme: minima
+description: An aspiring cognitive scientist's digital garden tracking the journey from theory to implementation
 baseurl: "/paradigms-to-practice"
 url: "https://SamBitSync.github.io"
+github_username: SamBitSync
 
-# Digital garden settings
+# Build settings
 markdown: kramdown
-highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Collections for different areas of learning
+# Collections
 collections:
+  posts:
+    output: true
+    permalink: /:collection/:name
   htdp:
     output: true
     permalink: /:collection/:name
-  python:
+  pybites:  # Changed from python
     output: true
     permalink: /:collection/:name
-  downey-books:
+  downey-books:  # Changed from downey
     output: true
     permalink: /:collection/:name
-  cogsci:
+  testing:
     output: true
     permalink: /:collection/:name
-  reflections:
+  datascience:
+    output: true
+    permalink: /:collection/:name
+  cogsci-projects:  # Changed from cogsci
     output: true
     permalink: /:collection/:name
 
-# Default layouts
+# Defaults for collections
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
+      author: "Aspiring Cognitive Scientist"
+  - scope:
+      path: ""
+      type: "htdp"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "python"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "downey"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "testing"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "datascience"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "cogsci"
+    values:
+      layout: "page"
