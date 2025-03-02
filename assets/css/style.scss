@@ -3,61 +3,31 @@
 
 @import "minima";
 
-/* Fix navigation indentation - more direct approach */
+/* Very direct navigation fixes */
 .site-nav {
-  float: none;
-  text-align: center;
-  line-height: 56px;
-  margin-left: 0;
-  margin-right: 0;
+  display: block !important;
+  float: none !important;
+  text-align: center !important;
+  margin: 10px auto !important;
+  padding: 0 !important;
+  position: relative !important;
+  width: 100% !important;
 }
 
-.wrapper {
-  max-width: calc(800px - (30px * 2));
-  padding-right: 30px;
-  padding-left: 30px;
-}
-
-header.site-header {
-  border-top: 5px solid #424242;
-}
-
-/* Override any padding in navigation */
 .page-link {
-  padding: 0;
-  margin-left: 15px;
-  margin-right: 15px;
+  display: inline-block !important;
+  margin: 0 10px !important;
+  padding: 0 !important;
 }
 
-/* Force center alignment of navigation */
-nav.site-nav {
-  display: block;
-  position: relative;
-  width: 100%;
-  text-align: center;
+/* Test borders to see if CSS is being applied */
+header.site-header {
+  border-top: 5px solid #ff0000 !important;
 }
 
-/* Style improvements */
-h1, h2, h3 {
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-}
-
-/* Add subtle section dividers */
-.section {
-  padding: 20px 0;
-  border-bottom: 1px solid #eee;
-}
-
-/* Only for mobile view */
-@media screen and (max-width: 600px) {
-  .site-nav {
-    position: absolute;
-    top: 9px;
-    right: 15px;
-    text-align: right;
-    background-color: #fdfdfd;
-    border: 1px solid #e8e8e8;
-    border-radius: 5px;
-  }
+.site-title {
+  display: block !important;
+  float: none !important;
+  text-align: center !important;
+  margin: 10px auto !important;
 }
