@@ -3,7 +3,6 @@ layout: home
 title: Paradigms to Practice
 ---
 
-# Paradigms to Practice
 
 > An aspiring cognitive scientist's journey from theoretical understanding to practical programming implementation
 
