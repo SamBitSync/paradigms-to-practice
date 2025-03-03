@@ -8,7 +8,7 @@ title: Paradigms to Practice
 
 ## Project Philosophy
 
-As an aspiring cognitive scientist with strong paradigmic thinking skills, I'm documenting my journey to bridge the gap between theoretical cognitive science concepts and practical programming implementation. This digital garden serves as both documentation and accountability for my learning process.
+ I'm documenting my journey to bridge the gap between theoretical cognitive science concepts and practical programming implementation. This digital garden serves as both documentation and accountability for my learning process.
 
 ## Learning Tracks
 
