@@ -33,7 +33,23 @@ graph TD
 
 ## 1. FOUNDATIONS
 
-**Computational Thinking**
+## **Hermeneutic Foundations**
+- [ ] Conjectures and Refutations by Karl Popper
+- [ ] The Foundations of Social Research by Michael Crotty
+- [ ] Object Oriented Ontology by Graham Harman
+- [ ] Meaning and Argument by Ernest Lepore
+- [ ] The Beginning of Infinity of David Deutsch
+
+## Knowledge Representation
+- [ ] The Book of Why by Judea Pearl
+- [ ] Knowledge Representation and Reasoning by Brachman & Levesque
+- [ ] Conceptual Spaces by Peter Gärdenfors
+- [ ] Surfaces and Essences by Douglas Hofstadter & Emmanuel Sander
+- [ ] The Organization of Knowledge by Sowa
+
+## Modes of thinking
+
+### **Computational Thinking**
 - [ ] Carpentry: Introducing Computational Thinking
 - [ ] Missing Semester: Course overview + the shell
 - [ ] Missing Semester: Data Wrangling
@@ -48,6 +64,25 @@ graph TD
 - [ ] What's New in Python 3.12
 - [ ] Effective PyCharm (2021 Edition) 
 - [ ] Visual Studio Code for Python Developers
+
+### **Statistical Thinking**
+- [ ] Statistical Rethinking by Richard McElreath
+- [ ] An Introduction to Statistical Learning
+
+## System Thinking
+- [ ]  Complexity: A Guided Tour by Melanie Mitchell
+- [ ]  Networks: An Introduction 
+- [ ] Thinking in Systems by Donella Meadows
+
+## Experiment Thinking
+- [ ] Methods Matter by Murnane & Willett
+
+## Mathematical thinking
+- [ ] Introduction to Mathematical Thinking
+
+## Logical reasoning
+- [ ] Think Again: How to Reason and Argue
+
 
 ## 2. PROGRAMMING ESSENTIALS
 
@@ -73,8 +108,6 @@ graph TD
 - [ ] PyBites: Collections Modules
 
 **_Extended Learning_**
-- [ ]  Rock Solid Python with Python Typing
-- [ ] CPython Internals: Your Guide to the Python 3 Interpreter
 - [ ] AI-assisted coding (from Neural Data Science)
 
 ## 3. STATISTICS & DATA
@@ -207,6 +240,16 @@ graph TD
 - [ ] Computational models of executive function
 - [ ] Modeling language control in multilinguals
 
+---
+
+### **Recursive & Meta-Systematic Thinking**
+- [ ] Bateson
+  - [ ] Steps to an Ecology of Mind by Gregory Bateson
+  - [ ] Mind and Nature by Gregory Bateson
+- [ ] Hofstader
+  - [ ] Gödel, Escher, Bach by Douglas Hofstadter
+  - [ ] I Am a Strange Loop by Douglas Hofstadter
+- [ ] Seeing Like a State by James C. Scott
 
 ## 📚 Digital Garden
 
