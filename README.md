@@ -34,36 +34,50 @@ graph TD
 ## 1. FOUNDATIONS
 
 ## **Hermeneutic Foundations**
+
+**_Pareto_**
 - [ ] Conjectures and Refutations by Karl Popper
 - [ ] The Foundations of Social Research by Michael Crotty
+
+**_Supplementary_**
 - [ ] Object Oriented Ontology by Graham Harman
-- [ ] Meaning and Argument by Ernest Lepore
 - [ ] The Beginning of Infinity of David Deutsch
 
+**_Extended_**
+- [ ] Meaning and Argument by Ernest Lepore
+
 ## Knowledge Representation
+
+**_Pareto_**
 - [ ] The Book of Why by Judea Pearl
 - [ ] Knowledge Representation and Reasoning by Brachman & Levesque
+
+
+**_Supplementary_**
 - [ ] Conceptual Spaces by Peter Gärdenfors
 - [ ] Surfaces and Essences by Douglas Hofstadter & Emmanuel Sander
+
+**_Extended_**
 - [ ] The Organization of Knowledge by Sowa
 
 ## Modes of thinking
 
 ### **Computational Thinking**
+
+**_Pareto_**
 - [ ] Carpentry: Introducing Computational Thinking
-- [ ] Missing Semester: Course overview + the shell
+- [ ] HtDP Chapter 1: Fixed-Size Data
+- [ ] HtDP Chapter 3: Abstraction
 - [ ] Missing Semester: Data Wrangling
 - [ ] Missing Semester: Version Control (Git)
 
-**Core Concepts**
-- [ ] HtDP Chapter 1: Fixed-Size Data
-- [ ] HtDP Chapter 3: Abstraction
-- [ ] Think Python: Chapters 1-5: Basic concepts
 
 **_Supplementary_**
+- [ ] Missing Semester: Course overview + the shell
 - [ ] What's New in Python 3.12
 - [ ] Effective PyCharm (2021 Edition) 
 - [ ] Visual Studio Code for Python Developers
+- [ ] Think Python: Chapters 1-5: Basic concepts
 
 ### **Statistical Thinking**
 - [ ] Statistical Rethinking by Richard McElreath
